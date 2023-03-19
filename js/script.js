@@ -70,8 +70,7 @@ function tw (instance) {
       target : document.getElementById("demo"), // target html container
       //text : "Wow. Much text. Very paragraph. Such contents.", // text
       text : [
-        "Hiring Intern.", "Get placed in top tech companies.", "Skills above degree !! ",
-        "."
+        "Hiring Intern.", "Get placed in top tech companies.", "Skills above degree !! "
       ],
   
       // (C2) OPTIONAL
